@@ -3,7 +3,7 @@ const av = Autodesk.Viewing;
 //const token_URL = "/token";
 
 // for deployment, use an AWS lambda function, change line 3, to this... 
-const token_URL = "https://f2iv2mhpbebrhrkfsnn2lvloxq0janqb.lambda-url.us-west-2.on.aws";
+const token_URL = "https://b2yg2byp7kq3jmgo75rlq7ey4i0slrgo.lambda-url.eu-west-3.on.aws";
 
 // initialize Tandem Viewer and load different facilities
 class tandemViewer {
